@@ -1,7 +1,10 @@
-#variable booleenne utilisée pour controler le comportement de la boucle
-#dès que c'est a false, le traitement s'arrête
+#une repo git a été créé avec le source code de la solution
+#accessible a cet url https://github.com/seelfidha/intra-2026
+
 from exercice2conversion.utils import convertirCelciusToFahrenheit, convertirFahrenheitToCelcius, afficherChoixInvalide
 
+#variable booleenne utilisée pour controler le comportement de la boucle
+#dès que c'est a false, le traitement s'arrête
 continuer = True
 
 
